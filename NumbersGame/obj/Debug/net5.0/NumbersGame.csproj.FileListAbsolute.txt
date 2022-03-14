@@ -1,0 +1,16 @@
+C:\Users\Ola M AL-Shlool\Desktop\LTUC\Numbers-Game\NumbersGame\NumbersGame\bin\Debug\net5.0\NumbersGame.exe
+C:\Users\Ola M AL-Shlool\Desktop\LTUC\Numbers-Game\NumbersGame\NumbersGame\bin\Debug\net5.0\NumbersGame.deps.json
+C:\Users\Ola M AL-Shlool\Desktop\LTUC\Numbers-Game\NumbersGame\NumbersGame\bin\Debug\net5.0\NumbersGame.runtimeconfig.json
+C:\Users\Ola M AL-Shlool\Desktop\LTUC\Numbers-Game\NumbersGame\NumbersGame\bin\Debug\net5.0\NumbersGame.runtimeconfig.dev.json
+C:\Users\Ola M AL-Shlool\Desktop\LTUC\Numbers-Game\NumbersGame\NumbersGame\bin\Debug\net5.0\NumbersGame.dll
+C:\Users\Ola M AL-Shlool\Desktop\LTUC\Numbers-Game\NumbersGame\NumbersGame\bin\Debug\net5.0\ref\NumbersGame.dll
+C:\Users\Ola M AL-Shlool\Desktop\LTUC\Numbers-Game\NumbersGame\NumbersGame\bin\Debug\net5.0\NumbersGame.pdb
+C:\Users\Ola M AL-Shlool\Desktop\LTUC\Numbers-Game\NumbersGame\NumbersGame\obj\Debug\net5.0\NumbersGame.csproj.AssemblyReference.cache
+C:\Users\Ola M AL-Shlool\Desktop\LTUC\Numbers-Game\NumbersGame\NumbersGame\obj\Debug\net5.0\NumbersGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ola M AL-Shlool\Desktop\LTUC\Numbers-Game\NumbersGame\NumbersGame\obj\Debug\net5.0\NumbersGame.AssemblyInfoInputs.cache
+C:\Users\Ola M AL-Shlool\Desktop\LTUC\Numbers-Game\NumbersGame\NumbersGame\obj\Debug\net5.0\NumbersGame.AssemblyInfo.cs
+C:\Users\Ola M AL-Shlool\Desktop\LTUC\Numbers-Game\NumbersGame\NumbersGame\obj\Debug\net5.0\NumbersGame.csproj.CoreCompileInputs.cache
+C:\Users\Ola M AL-Shlool\Desktop\LTUC\Numbers-Game\NumbersGame\NumbersGame\obj\Debug\net5.0\NumbersGame.dll
+C:\Users\Ola M AL-Shlool\Desktop\LTUC\Numbers-Game\NumbersGame\NumbersGame\obj\Debug\net5.0\ref\NumbersGame.dll
+C:\Users\Ola M AL-Shlool\Desktop\LTUC\Numbers-Game\NumbersGame\NumbersGame\obj\Debug\net5.0\NumbersGame.pdb
+C:\Users\Ola M AL-Shlool\Desktop\LTUC\Numbers-Game\NumbersGame\NumbersGame\obj\Debug\net5.0\NumbersGame.genruntimeconfig.cache
